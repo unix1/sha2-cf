@@ -1,0 +1,7 @@
+h2 {font-size:5em;font-family:monospace;}
+form#search {display:flex;justify-content:center;}
+input[type="search"] {font-size:3em;}
+div#answer {font-size:3em;font-family:sans-serif;width:80%;margin-left:auto;margin-right:auto;}
+div#answer > div.error {text-align:center;font-size:0.7em;}
+div#answer > div.simple {text-align:center;font-family:monospace;font-size:0.7em;}
+footer {position:fixed;bottom:0;text-align:center;width:100%;font-size:1em;font-family:sans-serif;}
